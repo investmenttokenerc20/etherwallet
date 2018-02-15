@@ -1,15 +1,14 @@
-## https://classicetherwallet.com - Content of ClassicEtherWallet.com is served directly from github.
+## InvestmentTokenWallet - Content of ClassicEtherWallet.com is served directly from github.
 
-### ClassicEtherWallet
+### InvestmentTokenWallet
 
 ClassicEtherWallet is an open source, javascript, client-side tool for generating Ether wallets. It was forked from  [kvhnuke](https://github.com/kvhnuke).
 
-- Official link: https://classicetherwallet.com
 - Served from github link: https://elaineo.github.io/etherwallet/
 
 ### Purpose
 
-ClassicEtherWallet was created because many users were having immense trouble setting up the command-line ethereum client on their computers. Therefore, created this browser-based GUI wallet to...
+InvestmentTokenWallet was created because many users were having immense trouble setting up the command-line ethereum client on their computers. Therefore, created this browser-based GUI wallet to...
 - Import client wallet files and presale wallet files.
 - Generate wallets completely client side and provide raw private keys, JSON files, and paper version of the account.
 - Bulk generate wallets
